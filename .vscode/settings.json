@@ -1,0 +1,8 @@
+{
+    "nrf-connect.applications": [
+        "${workspaceFolder}/L1"
+    ],
+    "files.associations": {
+        "printk.h": "c"
+    }
+}
