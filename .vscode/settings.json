@@ -1,8 +1,16 @@
 {
     "nrf-connect.applications": [
-        "${workspaceFolder}/L1"
+        "${workspaceFolder}/L1",
+        "${workspaceFolder}/L2",
+        "${workspaceFolder}/L3"
     ],
     "files.associations": {
-        "printk.h": "c"
+        "printk.h": "c",
+        "i2c.h": "c",
+        "stdint.h": "c",
+        "kernel.h": "c",
+        "common.h": "c",
+        "bmi323.h": "c",
+        "type_traits": "c"
     }
 }
