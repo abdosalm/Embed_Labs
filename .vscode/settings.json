@@ -2,7 +2,8 @@
     "nrf-connect.applications": [
         "${workspaceFolder}/L1",
         "${workspaceFolder}/L2",
-        "${workspaceFolder}/L3"
+        "${workspaceFolder}/L3",
+        "${workspaceFolder}/L4"
     ],
     "files.associations": {
         "printk.h": "c",
