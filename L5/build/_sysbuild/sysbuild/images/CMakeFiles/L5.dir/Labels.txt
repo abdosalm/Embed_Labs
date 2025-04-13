@@ -1,0 +1,13 @@
+# Target labels
+ L5
+# Source files and their labels
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/CMakeFiles/L5
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/CMakeFiles/L5.rule
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/CMakeFiles/L5-complete.rule
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-build.rule
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-configure.rule
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-download.rule
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-install.rule
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-mkdir.rule
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-patch.rule
+/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-update.rule

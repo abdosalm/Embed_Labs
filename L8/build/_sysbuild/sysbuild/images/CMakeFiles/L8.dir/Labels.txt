@@ -1,0 +1,13 @@
+# Target labels
+ L8
+# Source files and their labels
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/CMakeFiles/L8
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/CMakeFiles/L8.rule
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/CMakeFiles/L8-complete.rule
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/L8-prefix/src/L8-stamp/L8-build.rule
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/L8-prefix/src/L8-stamp/L8-configure.rule
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/L8-prefix/src/L8-stamp/L8-download.rule
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/L8-prefix/src/L8-stamp/L8-install.rule
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/L8-prefix/src/L8-stamp/L8-mkdir.rule
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/L8-prefix/src/L8-stamp/L8-patch.rule
+/home/ams/EmbedLabs/L8/build/_sysbuild/sysbuild/images/L8-prefix/src/L8-stamp/L8-update.rule

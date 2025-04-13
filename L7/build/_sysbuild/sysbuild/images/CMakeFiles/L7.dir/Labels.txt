@@ -1,0 +1,13 @@
+# Target labels
+ L7
+# Source files and their labels
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/CMakeFiles/L7
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/CMakeFiles/L7.rule
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/CMakeFiles/L7-complete.rule
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-build.rule
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-configure.rule
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-download.rule
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-install.rule
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-mkdir.rule
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-patch.rule
+/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-update.rule

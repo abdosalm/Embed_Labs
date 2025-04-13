@@ -1,0 +1,2 @@
+# Load Sysbuild board Kconfig descriptions.
+osource "/home/ams/ncs/boards/auc_embed_boards/boards/AUC/auc_embedkit/Kconfig.sysbuild"

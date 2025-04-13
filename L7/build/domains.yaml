@@ -1,0 +1,7 @@
+default: L7
+build_dir: /home/ams/EmbedLabs/L7/build
+domains:
+  - name: L7
+    build_dir: /home/ams/EmbedLabs/L7/build/L7
+flash_order:
+  - L7

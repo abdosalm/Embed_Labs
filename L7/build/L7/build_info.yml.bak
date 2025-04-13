@@ -1,0 +1,51 @@
+cmake:
+  application:
+    configuration-dir: /home/ams/EmbedLabs/L7
+    source-dir: /home/ams/EmbedLabs/L7
+  board:
+    name: auc_embedkit
+    qualifiers: nrf52832
+    revision: 
+  devicetree:
+    bindings-dirs:
+     - /home/ams/ncs/v2.9.0/nrf/dts/bindings
+     - /home/ams/ncs/v2.9.0/zephyr/dts/bindings
+    files:
+     - /home/ams/ncs/boards/auc_embed_boards/boards/AUC/auc_embedkit/auc_embedkit.dts
+     - /home/ams/EmbedLabs/L7/auc_embedkit_nrf52832.overlay
+    include-dirs:
+     - /home/ams/ncs/v2.9.0/nrf/include
+     - /home/ams/ncs/v2.9.0/nrf/dts
+     - /home/ams/ncs/v2.9.0/zephyr/include
+     - /home/ams/ncs/v2.9.0/zephyr/include/zephyr
+     - /home/ams/ncs/v2.9.0/zephyr/dts/common
+     - /home/ams/ncs/v2.9.0/zephyr/dts/x86
+     - /home/ams/ncs/v2.9.0/zephyr/dts/xtensa
+     - /home/ams/ncs/v2.9.0/zephyr/dts/sparc
+     - /home/ams/ncs/v2.9.0/zephyr/dts/riscv
+     - /home/ams/ncs/v2.9.0/zephyr/dts/posix
+     - /home/ams/ncs/v2.9.0/zephyr/dts/nios2
+     - /home/ams/ncs/v2.9.0/zephyr/dts/arm64
+     - /home/ams/ncs/v2.9.0/zephyr/dts/arm
+     - /home/ams/ncs/v2.9.0/zephyr/dts/arc
+     - /home/ams/ncs/v2.9.0/zephyr/dts
+    user-files:
+     - /home/ams/EmbedLabs/L7/auc_embedkit_nrf52832.overlay
+  kconfig:
+    files:
+     - /home/ams/ncs/boards/auc_embed_boards/boards/AUC/auc_embedkit/auc_embedkit_defconfig
+     - /home/ams/EmbedLabs/L7/prj.conf
+     - /home/ams/EmbedLabs/L7/build/L7/zephyr/misc/generated/extra_kconfig_options.conf
+     - /home/ams/EmbedLabs/L7/build/L7/zephyr/.config.sysbuild
+    user-files:
+     - /home/ams/EmbedLabs/L7/prj.conf
+  toolchain:
+    name: zephyr
+    path: /home/ams/ncs/toolchains/b77d8c1312/opt/zephyr-sdk
+  vendor-specific:
+    nordic:
+      svdfile: /home/ams/ncs/v2.9.0/modules/hal/nordic/nrfx/mdk/nrf52.svd
+  zephyr:
+    version: 3.7.99
+    zephyr-base: /home/ams/ncs/v2.9.0/zephyr
+version: 0.1.0

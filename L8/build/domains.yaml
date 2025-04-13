@@ -1,0 +1,7 @@
+default: L8
+build_dir: /home/ams/EmbedLabs/L8/build
+domains:
+  - name: L8
+    build_dir: /home/ams/EmbedLabs/L8/build/L8
+flash_order:
+  - L8

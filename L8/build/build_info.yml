@@ -1,0 +1,19 @@
+cmake:
+  application:
+    source-dir: /home/ams/ncs/v2.9.0/zephyr/share/sysbuild
+  board:
+    name: auc_embedkit
+    qualifiers: nrf52832
+    revision: 
+  kconfig:
+    files:
+     - /home/ams/EmbedLabs/L8/build/_sysbuild/empty.conf
+     - /home/ams/EmbedLabs/L8/build/_sysbuild/empty.conf
+    user-files:
+     - /home/ams/EmbedLabs/L8/build/_sysbuild/empty.conf
+  sysbuild: true
+version: 0.1.0
+west:
+  command: /home/ams/ncs/toolchains/b77d8c1312/usr/local/bin/west build --build-dir /home/ams/EmbedLabs/L8/build /home/ams/EmbedLabs/L8 --pristine --board auc_embedkit/nrf52832 -- -DNCS_TOOLCHAIN_VERSION=NONE -DCONFIG_DEBUG_OPTIMIZATIONS=y -DCONFIG_DEBUG_THREAD_INFO=y -DBOARD_ROOT=/home/ams/ncs/boards/auc_embed_boards
+  topdir: /home/ams/ncs/v2.9.0
+  version: 1.2.0

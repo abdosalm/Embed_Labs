@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/CMakeFiles/L5"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/CMakeFiles/L5.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/CMakeFiles/L5-complete.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-build.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-configure.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-download.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-install.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-mkdir.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-patch.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L5/build/_sysbuild/sysbuild/images/L5-prefix/src/L5-stamp/L5-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"L5"
+		],
+		"name" : "L5"
+	}
+}

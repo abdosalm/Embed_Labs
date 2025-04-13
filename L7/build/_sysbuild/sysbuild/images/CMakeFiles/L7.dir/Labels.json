@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/CMakeFiles/L7"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/CMakeFiles/L7.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/CMakeFiles/L7-complete.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-build.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-configure.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-download.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-install.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-mkdir.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-patch.rule"
+		},
+		{
+			"file" : "/home/ams/EmbedLabs/L7/build/_sysbuild/sysbuild/images/L7-prefix/src/L7-stamp/L7-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"L7"
+		],
+		"name" : "L7"
+	}
+}

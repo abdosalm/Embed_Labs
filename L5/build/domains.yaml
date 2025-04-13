@@ -1,0 +1,7 @@
+default: L5
+build_dir: /home/ams/EmbedLabs/L5/build
+domains:
+  - name: L5
+    build_dir: /home/ams/EmbedLabs/L5/build/L5
+flash_order:
+  - L5
