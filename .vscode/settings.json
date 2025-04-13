@@ -3,7 +3,10 @@
         "${workspaceFolder}/L1",
         "${workspaceFolder}/L2",
         "${workspaceFolder}/L3",
-        "${workspaceFolder}/L4"
+        "${workspaceFolder}/L4",
+        "${workspaceFolder}/L5",
+        "${workspaceFolder}/L7",
+        "${workspaceFolder}/L8"
     ],
     "files.associations": {
         "printk.h": "c",
